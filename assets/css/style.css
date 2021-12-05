@@ -8,6 +8,17 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Header style elements */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,14 +52,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/* Hero style elements */
 
 .hero {
     height: 800px;
@@ -74,6 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Services style elements */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -129,6 +135,8 @@ p {
     font-size: 36px;
 }
 
+/* Sidebar style elements */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -155,6 +163,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer style elements */
 
 .footer {
     padding: 30px;
